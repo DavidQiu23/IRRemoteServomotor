@@ -14,3 +14,6 @@
 - VCC -> PIN 8
 - GND -> GND
 - Vout -> PIN 2
+
+# Demo
+![IrRemote](./IrRemote.gif)
