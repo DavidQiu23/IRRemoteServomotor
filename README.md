@@ -1,7 +1,7 @@
 # 材料
 - Arduino nano
 - Tower Pro SG90 伺服馬達
-- Keyes 紅外線接收器
+- Keyes VS1838B 紅外線接收器
 - 麵包板
 - 杜邦線
 
@@ -11,8 +11,8 @@
 - Control -> PIN 9
 
 # 紅外線接收器 -> Arduino 線路
-- VCC -> PIN 8
-- GND -> GND
+- VCC -> PIN 4
+- GND -> PIN 3
 - Vout -> PIN 2
 
 # Demo
